@@ -3,7 +3,6 @@
 
 ## **Team Mates**
 - Shilpi Maity
-- Charushila Chakraborty
 
 ## **Software Requirements**
 - GCC version 5.2.0 and upwards.
